@@ -34,7 +34,8 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Firebase 
+            Firebase <br />
+            Moralis
           </ListParagraph>
         </ListContainer>
       </ListItem>
